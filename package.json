@@ -1,0 +1,21 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "node_api for new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_api"
+  },
+  "author": "audrey cooper",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
