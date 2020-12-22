@@ -4,7 +4,8 @@
   "description": "node_api for new project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start-dev": "nodemon ./app.js"
   },
   "repository": {
     "type": "git",
